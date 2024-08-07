@@ -1,6 +1,6 @@
 import web3 from "./web3";
 
-const address = '0xB2a3762ff9ce55140cACfa06cB3398bAB1fbfEed';
+const address = 'the address to which ether is transferred when you deploy';
 
 const abi = [
   {
