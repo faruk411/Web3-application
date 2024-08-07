@@ -13,3 +13,9 @@ I developed a lottery application with web3 where users send a certain amount of
 
 
 ![Ekran görüntüsü 2024-08-08 001835](https://github.com/user-attachments/assets/d0236957-1e76-4c58-a609-9c4b8f8f8fc6)
+
+
+
+![Ekran görüntüsü 2024-08-08 001938](https://github.com/user-attachments/assets/80c95523-1165-4b67-b6f8-6411e55a2508)
+
+
